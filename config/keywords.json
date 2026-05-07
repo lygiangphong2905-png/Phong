@@ -1,0 +1,48 @@
+{
+  "momo_ota_brand": [
+    "du lịch momo",
+    "đặt vé momo",
+    "momo đặt vé máy bay",
+    "momo book khách sạn",
+    "momo tour"
+  ],
+  "flight": [
+    "đặt vé máy bay",
+    "book vé máy bay",
+    "vé máy bay rẻ",
+    "săn vé máy bay",
+    "vé máy bay giá rẻ",
+    "vé máy bay khuyến mãi"
+  ],
+  "hotel": [
+    "đặt khách sạn",
+    "book khách sạn",
+    "khách sạn giá rẻ",
+    "thuê phòng khách sạn",
+    "đặt phòng online"
+  ],
+  "tour": [
+    "đặt tour du lịch",
+    "tour giá rẻ",
+    "combo du lịch",
+    "tour trong nước",
+    "tour nước ngoài"
+  ],
+  "ota_competitors": [
+    "agoda",
+    "booking.com",
+    "traveloka",
+    "trip.com",
+    "klook",
+    "vntrip",
+    "mytour"
+  ],
+  "pain_points_ota": [
+    "đặt vé bị lỗi",
+    "hoàn vé máy bay",
+    "hủy phòng khách sạn",
+    "hoàn tiền vé máy bay",
+    "vé máy bay bị hủy",
+    "app đặt vé lỗi"
+  ]
+}
